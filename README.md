@@ -37,3 +37,6 @@ El proyecto consiste en realizar una ingesta de datos, posteriormente realizar u
 * **requirements.txt** - _Dependencias usadas_
 * **EDA_process.ipynb** - _Transformacion de datos para el modelo_
 * **ML_recomendatio.ipynb** - _Sistema de recomendacion de peliculas_
+
+Nombre de la app en Deta = MLOps_PI
+Link de Deta = https://mlops_pi-2-m3365520.deta.app/
