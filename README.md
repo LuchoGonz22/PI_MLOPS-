@@ -29,10 +29,10 @@ El proyecto consiste en realizar una ingesta de datos, posteriormente realizar u
 + El campo ***duration*** se convirtió en dos campos: **`duration_int`** y **`duration_type`**. El primero se transformó en integer y el segundo a string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
 <br/>
-* **ratings** - CSV de ratings de las peliculas
-* **Datasets** - Archivos necesarios para la API
-* **etl.ipynb** - Proceso de ETL
-* **main.py** - Codigo para la API
-* **requirements.txt** - Dependencias usadas
-* **EDA_process.ipynb** - Transformacion de datos para el modelo
-* **ML_recomendatio.ipynb** - Sistema de recomendacion de peliculas
+* **ratings** - _CSV de ratings de las peliculas_
+* **Datasets** - _Archivos necesarios para la API_
+* **etl.ipynb** - _Proceso de ETL_
+* **main.py** - _Codigo para la API_
+* **requirements.txt** - _Dependencias usadas_
+* **EDA_process.ipynb** - _Transformacion de datos para el modelo_
+* **ML_recomendatio.ipynb** - _Sistema de recomendacion de peliculas_
