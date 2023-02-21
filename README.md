@@ -29,6 +29,7 @@ El proyecto consiste en realizar una ingesta de datos, posteriormente realizar u
 + El campo ***duration*** se convirtió en dos campos: **`duration_int`** y **`duration_type`**. El primero se transformó en integer y el segundo a string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
 <br/>
+:yellow_circle: **MENU:** ⚫ 
 * **ratings** - _CSV de ratings de las peliculas_
 * **Datasets** - _Archivos necesarios para la API_
 * **etl.ipynb** - _Proceso de ETL_
